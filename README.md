@@ -1,6 +1,6 @@
 # Final-Year-Project
 
-#Overview:
+Overview:
 
 This project quantified the uncertainty in automated estimates of hippocampal volume, a key Alzheimer’s Disease
 (AD) biomarker. A range of hippocampal volume estimates were extracted from MRI scans according to
